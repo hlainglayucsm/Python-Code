@@ -1,0 +1,12 @@
+wife	husband
+groom	bride
+lemon	tea
+dog	cat
+spoon	cup
+remember	forget
+champion	victor
+start	begin
+accept	acknowledge
+floor	deck
+leader	manager
+protect	defend
